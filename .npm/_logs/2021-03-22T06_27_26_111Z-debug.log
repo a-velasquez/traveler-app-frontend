@@ -1,0 +1,37 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/usr/local/Cellar/node/14.12.0/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'start'
+1 verbose cli ]
+2 info using npm@6.14.8
+3 info using node@v14.12.0
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle redux-index-codealong@0.1.0~prestart: redux-index-codealong@0.1.0
+6 info lifecycle redux-index-codealong@0.1.0~start: redux-index-codealong@0.1.0
+7 verbose lifecycle redux-index-codealong@0.1.0~start: unsafe-perm in lifecycle true
+8 verbose lifecycle redux-index-codealong@0.1.0~start: PATH: /usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/Users/alexvelazquez/Development/code/redux-index-codealong-onl01-seng-sp-exp/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin
+9 verbose lifecycle redux-index-codealong@0.1.0~start: CWD: /Users/alexvelazquez/Development/code/redux-index-codealong-onl01-seng-sp-exp
+10 silly lifecycle redux-index-codealong@0.1.0~start: Args: [ '-c', 'react-scripts start' ]
+11 info lifecycle redux-index-codealong@0.1.0~start: Failed to exec start script
+12 verbose stack Error: redux-index-codealong@0.1.0 start: `react-scripts start`
+12 verbose stack spawn ENOENT
+12 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:48:18)
+12 verbose stack     at ChildProcess.emit (events.js:314:20)
+12 verbose stack     at maybeClose (internal/child_process.js:1047:16)
+12 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:287:5)
+13 verbose pkgid redux-index-codealong@0.1.0
+14 verbose cwd /Users/alexvelazquez/Development/code/redux-index-codealong-onl01-seng-sp-exp
+15 verbose Darwin 20.3.0
+16 verbose argv "/usr/local/Cellar/node/14.12.0/bin/node" "/usr/local/bin/npm" "start"
+17 verbose node v14.12.0
+18 verbose npm  v6.14.8
+19 error code ELIFECYCLE
+20 error syscall spawn
+21 error file sh
+22 error errno ENOENT
+23 error redux-index-codealong@0.1.0 start: `react-scripts start`
+23 error spawn ENOENT
+24 error Failed at the redux-index-codealong@0.1.0 start script.
+24 error This is probably not a problem with npm. There is likely additional logging output above.
+25 verbose exit [ 1, true ]
