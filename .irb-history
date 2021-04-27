@@ -1,0 +1,100 @@
+Visit.all
+Visit
+Comment
+Trip
+user = User.first
+user.id
+l = Attraction.first
+l.id
+exit
+Visit
+Visit.all
+Visit.first
+User.all
+user = User.al
+user = User.first
+user.trip
+user.trips
+user.trips.first
+user.trips.visit
+user.visits
+Trip.all
+Trip.last
+Trip.last.destroy
+Trip.last.destroy
+Trip.last.destroy
+Trip.last.destroy
+Trip.last.destroy
+Trip.last.destroy
+Trip.all
+Visit
+Trip
+Trip.create(name: "Pit Town", start_date: "2021-07-04", end_date: "2021-07-10", location_id: 1, user_id:, 1)
+Trip.create(name: "Pit Town", start_date: "2021-07-04", end_date: "2021-07-10", location_id: 1, user_id: 1)
+Trip.all
+user = User.first
+user.trips
+user.trips.location
+user.trips
+user.trips.location_id
+user.trips
+user.trips.attraction
+user
+user.visits
+user.visits.create(attraction_id: 1, date: "2021-07-04")
+user.visits
+visit = Visit.first
+Visit.first
+trip = Trip.first
+Visit.create(trip_id: trip.id, attraction_id: 1, date: "2021-07-04")
+Visit.all
+Visit.first
+visit = _
+visit.location.city
+visit.location
+trip
+trip.id
+Visit.name
+Visit.trip.name
+Visit.trip.first
+user.trips
+user.visits
+user.visits.first
+Visit.first
+exit
+Trip.all
+Trip.first
+Trip.last
+Visit.all
+Visit.last
+user = User.first
+user.trips
+user.trips.first
+user.trips.last
+Visit.all
+Visit.last
+user.trips.last
+Comment.all
+Comment.all.length
+Comment.all.last
+Comment.all.last.user
+c = _
+c.name
+exit
+Location
+Location.all
+Location.attractions
+Attraction.first
+Location.first
+Location.attractions
+Attraction.all
+Attraction.location
+Attraction.location_id
+attraction = Attraction.first
+attraction.location
+attraction.location.city
+location = Location.first
+location.attractions
+location.attractions.count
+location.attractions.first.name
+exit

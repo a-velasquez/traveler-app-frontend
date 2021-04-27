@@ -1,0 +1,17 @@
+[2021-02-12 15:31:57.729] [info] [console_user_server] version 12.7.0
+[2021-02-12 15:31:57.980] [info] [console_user_server] receiver is initialized
+[2021-02-12 15:31:57.981] [info] [console_user_server] receiver: bound
+[2021-02-12 15:31:57.981] [info] [console_user_server] grabber_client is started.
+[2021-02-12 15:31:57.981] [info] [console_user_server] grabber_client is connected.
+[2021-02-12 15:31:58.161] [info] [console_user_server] core_configuration is updated.
+[2021-02-12 15:31:58.262] [info] [console_user_server] Check for updates...
+[2021-02-12 15:34:05.736] [info] [console_user_server] Load /Users/alexvelazquez/.config/karabiner/karabiner.json...
+[2021-02-12 15:34:05.737] [info] [console_user_server] core_configuration is updated.
+[2021-02-12 15:37:04.930] [info] [console_user_server] version 12.7.0
+[2021-02-12 15:37:05.157] [info] [console_user_server] receiver is initialized
+[2021-02-12 15:37:05.158] [info] [console_user_server] receiver: bound
+[2021-02-12 15:37:05.158] [info] [console_user_server] grabber_client is started.
+[2021-02-12 15:37:05.158] [info] [console_user_server] grabber_client is connected.
+[2021-02-12 15:37:05.311] [info] [console_user_server] Load /Users/alexvelazquez/.config/karabiner/karabiner.json...
+[2021-02-12 15:37:05.314] [info] [console_user_server] core_configuration is updated.
+[2021-02-12 15:37:05.367] [info] [console_user_server] Check for updates...
